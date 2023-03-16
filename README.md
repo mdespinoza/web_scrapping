@@ -12,4 +12,23 @@
 #### Sources: 
 - https://www.geeksforgeeks.org/python-web-scraping-tutorial/
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![random](images/readme_img.png)
