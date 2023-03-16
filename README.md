@@ -1,6 +1,8 @@
 # Web Scrapping Script
 ## The purpose of this repo was to develop a python script that is able to extract data from a web page.
 
+
+
 ### You will find 2 folders having: 
 - code_example 
   - This folder you will find a jupyter notebook file where I break down the script and you can follow step by step
@@ -14,21 +16,4 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![random](images/readme_img.png)
+![random](images/readme_pic.png)
