@@ -16,4 +16,4 @@
 
 
 
-![random](images/readme_pic.png)
+![](images/readme_pic.png)
