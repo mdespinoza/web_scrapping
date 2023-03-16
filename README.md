@@ -14,6 +14,4 @@
 #### Sources: 
 - https://www.geeksforgeeks.org/python-web-scraping-tutorial/
 
-
-
 ![](images/readme_pic.png)
