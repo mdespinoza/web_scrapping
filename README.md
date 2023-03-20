@@ -11,6 +11,11 @@
   - This folder you will find a python script that can be ran for web scrapping data from a website. (Feel free to modify as needed)  
 
 
+### UPDATE 
+- Created a new version that is directed towards pulling data from Google Search
+  - Google has more up-to-date information
+
+
 #### Sources: 
 - https://www.geeksforgeeks.org/python-web-scraping-tutorial/
 

@@ -4,7 +4,7 @@ Define Your variables
 """
 
 # Web URL
-web_url = 'https://www.rxlist.com/pharmacy/san-antonio-tx_pharmacies.htm'
+web_url = 'https://www.rxlist.com/pharmacy/dallas-tx_pharmacies.htm'
 # HTML class where data is located
 class_loc ='tabcontent'
 # specific HTML tag holding the data 
@@ -40,7 +40,7 @@ def website_script(web_url, class_loc, spec_loc):
         count += 1
         empty_list.append(d)
     # file will be saved in directory you are working in 
-    filename = 'extracted_data.csv'
+    filename = 'extracted_data_2.csv'
     with open(filename, 'w', newline='') as f:
         w = csv.DictWriter(f,['Data Number','Data information'])
         w.writeheader()
